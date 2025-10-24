@@ -1,7 +1,7 @@
 ---
 layout: poi
-wikidatum: Q121378
-title:  Κέρκυρα
+wikidatum: Q5707191
+title:  Hellenic Cricket Feredation
 ---
 
 Sample text
