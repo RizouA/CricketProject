@@ -1,0 +1,4 @@
+layout: poi
+wikidatum: Q987654
+title: Τρίτο POI για Τεστ
+---
