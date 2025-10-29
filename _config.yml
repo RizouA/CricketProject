@@ -13,27 +13,30 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+
 title: Ιστοχώρος προβολής πολιτιστικού περιεχομένου
 # email: inf.dig24@ionio.gr
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Ο ιστοχώρος αυτός αναπτύχτηκε από την Αναστασία Ρίζου
   στα πλαίσια εργασίας του μαθήματος ΕΡΓΑΛΕΙΑ ΠΡΟΒΟΛΗΣ ΤΟΥΡΙΣΤΙΚΟΥ ΚΑΙ ΠΟΛΙΤΙΣΤΙΚΟΥ ΠΡΟΪΟΝΤΟΣ 
   του ΠΜΣ Ψηφιακές Εφαρμογές & Καινοτομία του Ιονίου Πανεπιστημίου.
-baseurl: "/heritage-promotion" # the subpath of your site, e.g. /blog
-url: "url: "https://rizoua.github.io"" # the base hostname & protocol for your site, e.g. http://example.com
+
+url: "https://rizoua.github.io"
+baseurl: "/heritage-promotion"
 # twitter_username: jekyllrb
-github_username:  RizouA
+github_username: RizouA
 
 # Build settings
 markdown: kramdown
 theme: minima
+
 plugins:
   - jekyll-feed
 
 collections:
   pois:
     output: true
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
