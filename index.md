@@ -4,5 +4,5 @@
 
 layout: home
 top_imge: https://upload.wikimedia.org/wikipedia/commons/9/94/Wide_brown_land_art-work.JPG
-[Λίστα POIs]({{ '/pois/' | relative_url }})
+
 ---
