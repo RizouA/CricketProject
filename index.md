@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-# top_imge: https://upload.wikimedia.org/wikipedia/commons/9/94/Wide_brown_land_art-work.JPG
-[Προβολή Σημείων Ενδιαφέροντος]({{ '/pois/' | relative_url }})
+top_imge: https://upload.wikimedia.org/wikipedia/commons/9/94/Wide_brown_land_art-work.JPG
+
 ---
