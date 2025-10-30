@@ -1,12 +1,17 @@
 ---
 layout: poi
-title: Αθλητικός Πολιτιστικός Σύλλογος «Η Ναυσικά»
-city: Corfu
-region: Ionian Islands
-links:
-  hcf_members: https://www.cricket.gr/meli-somatia-ellinikis-omospondias-cricket/
-permalink: /pois/nausika-sports-cultural-club/
+wikidatum:
+title: "Αθλητικός Πολιτιστικός Σύλλογος «Η Ναυσικά»"
+title_en: "APS 'Nausica' (Cricket)"
+slug: "aps-nausika-cricket"
+tags: ["cricket","club"]
+category: "Αθλητικοί σύλλογοι"
+lat:
+lng:
+description: "Αθλητικός/πολιτιστικός σύλλογος με τμήμα κρίκετ."
+description_en: "Sports/cultural club with a cricket section."
 ---
+
 
 **EL:** Σύλλογος-μέλος της ΕΛ.Ο.Κ. με ενεργές ακαδημίες.
 
