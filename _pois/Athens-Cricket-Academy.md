@@ -1,13 +1,17 @@
 ---
 layout: poi
-title: Athens Cricket Academy
-city: Aigaleo, Athens
-region: Attica
-website: https://www.facebook.com/p/Athens-Cricket-Academy-100093181688638/
-links:
-  hcf_members: https://www.cricket.gr/en/members-association-hellenic-cricket-federation/
-permalink: /pois/athens-cricket-academy/
+wikidatum:          # π.χ. Q123456 (άστο κενό τώρα)
+title: "Athens Cricket Academy"
+title_en: "Athens Cricket Academy"
+slug: "athens-cricket-academy"
+tags: ["cricket","Athens","club"]
+category: "Αθλητικοί σύλλογοι"
+lat:
+lng:
+description: "Ακαδημία κρίκετ στην Αθήνα."
+description_en: "Cricket academy in Athens."
 ---
+
 
 **EL:** Ακαδημία κρίκετ στην Αθήνα, αναφερόμενη ως μέλος/συνεργαζόμενος σύλλογος της ΕΛ.Ο.Κ.
 
