@@ -1,13 +1,17 @@
 ---
 layout: poi
-title: Κερκυραϊκός Γυμναστικός Σύλλογος (Kerkyraikos G.S.)
-city: Corfu
-region: Ionian Islands
-website: https://kerkyraikos.gr/
-links:
-  hcf_members: https://www.cricket.gr/meli-somatia-ellinikis-omospondias-cricket/
-permalink: /pois/kerkyraikos-gymnastikos-syllogos/
+wikidatum:
+title: "Κερκυραϊκός Γυμναστικός Σύλλογος (Kerkyraikos G.S.)"
+title_en: "Kerkyraikos Gymnastikos Syllogos (Cricket)"
+slug: "kerkyraikos-gs-cricket"
+tags: ["cricket","Corfu","club"]
+category: "Αθλητικοί σύλλογοι"
+lat:
+lng:
+description: "Κερκυραϊκός Γ.Σ. με δραστηριότητα στο κρίκετ."
+description_en: "Kerkyraikos G.S. with cricket activity."
 ---
+
 
 **EL:** Ένας από τους ιστορικότερους συλλόγους της Κέρκυρας με τμήμα κρίκετ.
 
