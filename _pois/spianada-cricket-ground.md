@@ -4,20 +4,12 @@ wikidatum: Q136675646
 title: "Γήπεδο Κρίκετ Σπιανάδα"
 title_en: "Spianada Cricket Ground"
 slug: "spianada-cricket-ground"
-
+tags: ["cricket","Corfu","venue"]
+category: "Αθλητικές εγκαταστάσεις"
 lat: 39.6226
 lng: 19.9237
-elevation: 5
-terrain: "Αστικό, πλατεία"
-tags: ["cricket", "Corfu", "sports", "heritage"]
-category: "Αθλητικές εγκαταστάσεις"
-
-image: "/static/img/cricket/spianada/cover.jpg"
-images:
-  - "/static/img/cricket/spianada/1.jpg"
-
-description: "Ιστορικό γήπεδο κρίκετ στην Πλατεία Σπιανάδα Κέρκυρας – σημείο αναφοράς για την ανάπτυξη του αθλήματος στην Ελλάδα."
-description_en: "Historic cricket venue on Corfu’s Spianada Square — a landmark for the sport’s growth in Greece."
+description: "Ιστορικό γήπεδο κρίκετ στην Πλατεία Σπιανάδα, Κέρκυρα."
+description_en: "Historic cricket ground on Corfu’s Spianada Square."
 ---
 
 ## English
