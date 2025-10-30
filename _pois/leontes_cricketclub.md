@@ -1,14 +1,17 @@
 ---
 layout: poi
-title: Α.Π.Σ. «Λέοντες» (Leontes Cricket Club)
-city: Corfu
-region: Ionian Islands
-website: https://www.instagram.com/leontes_cricketclub/
-links:
-  hcf_members: https://www.cricket.gr/en/members-association-hellenic-cricket-federation/
-  press: https://enimerosi.com/sport/47955/Euxaristirio-tou-APS-oi-Leontes
-permalink: /pois/aps-leontes-corfu/
+wikidatum:
+title: "Λ.Π.Σ. «Λέοντες» (Leontes Cricket Club)"
+title_en: "Leontes Cricket Club"
+slug: "leontes-cricket-club"
+tags: ["cricket","club"]
+category: "Αθλητικοί σύλλογοι"
+lat:
+lng:
+description: "Σύλλογος κρίκετ «Λέοντες»."
+description_en: "Leontes cricket club."
 ---
+
 
 **EL:** Αθλητικός Πολιτιστικός Σύλλογος «Λέοντες». Δραστηριότητες σε αναπτυξιακά πρωταθλήματα και γυναικείο κρίκετ.
 
