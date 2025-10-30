@@ -3,23 +3,57 @@ layout: default
 load_leaflet: 1
 ---
 
-<h1 style="float:right; font-size:64pt; color:#f1f1f1">{{page.title}}</h1>
+<h1 style="float:right; font-size:64pt; color:#f1f1f1">{{ page.title }}</h1>
 
-<!-- Από εδώ αρχίζει το Wikidata δυναμικό περιεχόμενο -->
+
 <h2 id="wikidata_title"></h2>
 <h3 id="wikidata_descr"></h3>
 
-<!-- Αυτόματα φερόμενη εικόνα από Wikidata (P18) -->
+
 <img id="wikidata_img"
      alt="Wikidata image"
-     style="width:100%; display:block; margin:0 auto; padding-bottom:10px; border-radius:12px; box-shadow:0 0 6px rgba(0,0,0,0.2)" />
+     style="width:100%; display:block; margin:0 auto; padding-bottom:10px; border-radius:12px; box-shadow:0 0 6px rgba(0,0,0,0.2)"
+     src="/static/img/default-placeholder.jpg" />
 
-<!-- Leaflet map -->
+
 <div id="map" style="height: 300px; width:100%; background-color:#f6f6f6; margin-bottom:1rem;"></div>
+
 
 {{ content }}
 
-<!-- Optional: Wikipedia link αν υπάρχει -->
+
 <p style="text-align:center; margin-top:1em;">
   <a id="wikidata_href" target="_blank" href="#" style="color:#0066cc;">Προβολή στη Wikipedia</a>
 </p>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        crossorigin="anonymous"></script>
+
+
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
+<script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js"></script>
+
+
+<script>var wikidatum = '{{ page.wikidatum }}'</script>
+
+
+<script src="{{ '/assets/js/get_wiki_item.js' | relative_url }}"></script>
+
+
+<script>
+ 
+  function setPlaceholderIfEmpty() {
+    const img = document.getElementById('wikidata_img');
+    if (!img.getAttribute('src') || img.getAttribute('src').trim() === '') {
+      img.src = '/static/img/default-placeholder.jpg';
+    }
+  }
+
+ 
+  window.addEventListener('load', () => setTimeout(setPlaceholderIfEmpty, 3000));
+</script>
+
