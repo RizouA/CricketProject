@@ -1,11 +1,15 @@
 ---
 layout: poi
-title: Αθλητικό Σωματείο Άτλας (Atlas Sports Club)
-city: Corfu
-region: Ionian Islands
-links:
-  hcf_members: https://www.cricket.gr/en/members-association-hellenic-cricket-federation/
-permalink: /pois/atlas-sports-club-corfu/
+wikidatum:
+title: "Αθλητικό Σωματείο Άτλας (Atlas Sports Club)"
+title_en: "Atlas Sports Club (Cricket)"
+slug: "atlas-sports-club-cricket"
+tags: ["cricket","club"]
+category: "Αθλητικοί σύλλογοι"
+lat:
+lng:
+description: "Σύλλογος με τμήμα κρίκετ."
+description_en: "Club with a cricket section."
 ---
 
 **EL:** Ο σύλλογος Άτλας της Κέρκυρας, ενεργό μέλος της ΕΛ.Ο.Κ.
