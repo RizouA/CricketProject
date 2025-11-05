@@ -1,6 +1,6 @@
 ---
 layout: poi
-wikidatum:          # π.χ. Q123456 (άστο κενό τώρα)
+wikidatum: Q136706909
 title: "Athens Cricket Academy"
 title_en: "Athens Cricket Academy"
 slug: "athens-cricket-academy"
