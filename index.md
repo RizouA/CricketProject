@@ -4,11 +4,12 @@ title: Cricket in Greece
 top_image: https://commons.wikimedia.org/wiki/Special:FilePath/Kookaburra_Gold_Crown_A_Cricket_ball_(cropped).jpg
 ---
 
-# Cricket in Greece
 
 Καλωσήρθες στο project μου για το **κρίκετ στην Ελλάδα**.  
 Η σελίδα αυτή συγκεντρώνει επιλεγμένα Σημεία/Αντικείμενα Πολιτιστικού Ενδιαφέροντος (ΣΑΠΕ) που σχετίζονται με το άθλημα:
 γήπεδα, συλλόγους, ομοσπονδίες και άλλους χώρους όπου παίζεται κρίκετ.
+
+![Cricket ball](https://commons.wikimedia.org/wiki/Special:FilePath/Kookaburra_Gold_Crown_A_Cricket_ball_(cropped).jpg)
 
 ---
 
