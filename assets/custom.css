@@ -1,4 +1,5 @@
-body {
+body,
+.page-content {
   background-color: #f7f3e9;
   color: #2c2c2c;
   font-family: "Georgia", "Times New Roman", serif;
@@ -38,7 +39,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Προαιρετικά: κάρτες ή κουτιά */
+/* Κουτιά περιεχομένου (sections, άρθρα) */
 section, article {
   background-color: #fffaf0;
   border-radius: 12px;
