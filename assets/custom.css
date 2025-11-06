@@ -1,0 +1,19 @@
+body {
+  background-color: #f7f9fc;
+}
+
+h1, h2, h3, h4 {
+  color: #004b7f;
+}
+
+.site-header {
+  background-color: #003355;
+}
+
+.site-header a {
+  color: #ffffff;
+}
+
+.site-title, .site-title:visited {
+  color: #ffffff;
+}
