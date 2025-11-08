@@ -39,6 +39,27 @@ a:hover {
   text-decoration: underline;
 }
 
+
+/* Vintage χρώμα για links σε Posts */
+a {
+  color: #7a3e00; /* καφέ - γήινο χρώμα */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a35c00; /* λίγο πιο φωτεινό στην αιώρηση */
+  text-decoration: underline;
+}
+
+/* Ειδικά για τη λίστα posts στην αρχική */
+.post-list a {
+  color: #7a3e00;
+}
+
+.post-list a:hover {
+  color: #a35c00;
+}
+
 /* Κουτιά περιεχομένου (sections, άρθρα) */
 section, article {
   background-color: #fffaf0;
