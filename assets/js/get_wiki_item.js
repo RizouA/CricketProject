@@ -15,11 +15,22 @@ function get_wikidatum(id){
             $('#wikidata_descr').text( get_first_upper(description) );
 
           let elwikititle = get_json_value(['entities',id,'sitelinks','elwiki','title'], data);
-          if (elwikititle) {
-            $('#wikidata_title').text( get_first_upper(elwikititle) );
-            $('#wikidata_href').attr('href', 'https://el.wikipedia.org/wiki/'+elwikititle );
-            $('#wikipedia_title').text('https://el.wikipedia.org/wiki/'+elwikititle );
-          }
+            if (elwikititle) {
+    // Κανονική περίπτωση: το POI έχει δικό του λήμμα στη Wikipedia
+                $('#wikidata_title').text( get_first_upper(elwikititle) );
+
+                  const wikiUrl = 'https://el.wikipedia.org/wiki/' + elwikititle;
+                  $('#wikidata_href').attr('href', wikiUrl );
+                  $('#wikipedia_title').text(wikiUrl );
+            } else {
+    // Δεν υπάρχει λήμμα για το συγκεκριμένο POI
+    // → στέλνουμε τον χρήστη στη σελίδα της Ελληνικής Ομοσπονδίας Κρίκετ
+                const elokUrl = 'https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%9F%CE%BC%CE%BF%CF%83%CF%80%CE%BF%CE%BD%CE%B4%CE%AF%CE%B1_%CE%9A%CF%81%CE%AF%CE%BA%CE%B5%CF%84';
+
+    // ΔΕΝ πειράζουμε τον τίτλο της σελίδας (μένει "Athens Cricket Academy" κτλ)
+                $('#wikidata_href').attr('href', elokUrl);
+                $('#wikipedia_title').text(elokUrl);
+           }
 
 
           let latlong = get_json_value(['entities',id,'claims','P625', 0,'mainsnak', 'datavalue', 'value'], data);
