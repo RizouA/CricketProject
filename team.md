@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Σχετικά
+title: Ομάδα
 permalink: /team/
+published: false
 ---
 
-Αναστασία Ρίζου
 
----
