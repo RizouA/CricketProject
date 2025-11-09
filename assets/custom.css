@@ -75,3 +75,12 @@ section, article {
   color: #3b2c1f;
   border-top: 3px solid #d6b987;
 }
+
+.gallery-caption {
+  background: rgba(255, 248, 240, 0.9);
+  border-radius: 10px;
+  padding: 0.8em;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  font-size: 0.9em;
+  line-height: 1.5;
+}
