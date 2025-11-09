@@ -23,20 +23,26 @@ load_leaflet: 1
 
 
 <p style="text-align:center; margin-top:1em;">
-  <a id="wikidata_href" target="_blank" href="#" style="color:#0066cc;">Προβολή στη Wikipedia</a>
-</p>
+ <p>
+  <a id="wikidata_href" href="#" target="_blank">
+    Άρθρο στη Wikipedia
+  </a>
+ </p>
+
 {% if page.official_url %}
-<p>
+ <p>
   <a href="{{ page.official_url }}" target="_blank" style="color:#7a3e00; font-weight:bold;">
     Επίσημος ιστότοπος
   </a>
-</p>
-{% if page.facebook_url %}
+ </p>
+{% endif %}
 
+{% if page.facebook_url %}
+ <p>
   <a href="{{ page.facebook_url }}" target="_blank" style="color:#3b5998; font-weight:bold;">
     Σελίδα στο Facebook
   </a>
-</p>
+ </p>
 {% endif %}
 <p>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"
