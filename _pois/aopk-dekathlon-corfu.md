@@ -1,13 +1,13 @@
 ---
 layout: poi
-wikidatum:
+wikidatum: Q136745508
 title: "Α.Ο.Π.Κ. «Το Δέκαθλον» (Decathlon Cricket Club)"
 title_en: "Decathlon Cricket Club"
 slug: "decathlon-cricket-club"
 tags: ["cricket","club"]
 category: "Αθλητικοί σύλλογοι"
-lat:
-lng:
+lat: 39.6539
+lng: 19.8443
 description: "Αθλητικός όμιλος κρίκετ."
 description_en: "Cricket sports club."
 ---
