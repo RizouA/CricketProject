@@ -1,6 +1,6 @@
 ---
 layout: poi
-wikidatum:
+wikidatum: Q136745437
 title: "Αναγέννηση Κερκυραϊκού Κρίκετ 2021 (Anagennisi C.C.)"
 title_en: "Anagennisi Corfu Cricket 2021"
 slug: "anagennisi-cc-2021"
