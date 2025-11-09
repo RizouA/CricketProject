@@ -129,8 +129,8 @@ permalink: /photos/
     <a class="gallery-item" href="#photo1">
       <img src="{{ '/assets/images/photo1.jpg' | relative_url }}" alt="Αγώνας κρίκετ στην Κέρκυρα">
       <div class="gallery-caption">
-        <strong>Αγώνας κρίκετ στην Κέρκυρα</strong>
-        Στιγμιότυπο από διοργάνωση της ΕΛ.Ο.Κ. στο ιστορικό γήπεδο.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+         Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
@@ -138,8 +138,8 @@ permalink: /photos/
     <a class="gallery-item" href="#photo2">
       <img src="{{ '/assets/images/photo2.jpg' | relative_url }}" alt="Προπόνηση Athens Cricket Academy">
       <div class="gallery-caption">
-        <strong>Προπόνηση Athens Cricket Academy</strong>
-        Νέοι αθλητές σε προπόνηση, στο πλαίσιο ανάπτυξης του αθλήματος.
+       <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
@@ -147,8 +147,8 @@ permalink: /photos/
     <a class="gallery-item" href="#img3">
       <img src="{{ '/assets/images/photo3.jpg' | relative_url }}" alt="Ομαδική φωτογραφία συλλόγου">
       <div class="gallery-caption">
-        <strong>Ομαδική φωτογραφία συλλόγου</strong>
-        Αναμνηστική φωτογραφία μετά από αγώνα πρωταθλήματος.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
@@ -156,72 +156,72 @@ permalink: /photos/
     <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo4.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo5.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo6.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo7.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo8.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+       <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo9.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo10.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo11.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
         <a class="gallery-item" href="#img4">
       <img src="{{ '/assets/images/photo12.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
-        <strong>Δράση για νέους</strong>
-        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
+        Φωτογραφικό υλικό από αγώνες, προπονήσεις και δράσεις συλλόγων, στο πλαίσιο της ιστορικής παρουσίας του κρίκετ στην Ελλάδα.
       </div>
     </a>
 
@@ -235,7 +235,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo1.jpg' | relative_url }}" alt="Αγώνας κρίκετ στην Κέρκυρα">
     <div class="lightbox-caption">
-      Αγώνας κρίκετ στην Κέρκυρα – διοργάνωση της ΕΛ.Ο.Κ. στο ιστορικό γήπεδο.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -245,7 +245,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo2.jpg' | relative_url }}" alt="Προπόνηση Athens Cricket Academy">
     <div class="lightbox-caption">
-      Προπόνηση της Athens Cricket Academy με συμμετοχή νεαρών αθλητών.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -255,7 +255,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo3.jpg' | relative_url }}" alt="Ομαδική φωτογραφία συλλόγου">
     <div class="lightbox-caption">
-      Ομαδική φωτογραφία συλλόγου μετά από παιχνίδι πρωταθλήματος.
+     Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -265,7 +265,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo4.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -275,7 +275,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo5.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -285,7 +285,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo6.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -295,7 +295,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo4.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -305,7 +305,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo7.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -315,7 +315,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo8.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -325,7 +325,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo9.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -335,7 +335,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo10.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -345,7 +345,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo11.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
@@ -355,7 +355,7 @@ permalink: /photos/
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo12.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
     <div class="lightbox-caption">
-      Προπονητική δράση για νέους/νέες ως εισαγωγή στο κρίκετ.
+      Στιγμιότυπα από το ελληνικό κρίκετ
     </div>
   </div>
 </div>
