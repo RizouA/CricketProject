@@ -1,13 +1,14 @@
 ---
 layout: poi
-wikidatum:
+wikidatum: Q136745791
 title: "Κερκυραϊκός Γυμναστικός Σύλλογος (Kerkyraikos G.S.)"
 title_en: "Kerkyraikos Gymnastikos Syllogos (Cricket)"
 slug: "kerkyraikos-gs-cricket"
 tags: ["cricket","Corfu","club"]
 category: "Αθλητικοί σύλλογοι"
-lat:
-lng:
+lat: 39.6243
+lng: 19.9217
+official_url: "https://www.kerkyraikos.gr"
 description: "Κερκυραϊκός Γ.Σ. με δραστηριότητα στο κρίκετ."
 description_en: "Kerkyraikos G.S. with cricket activity."
 ---
