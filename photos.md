@@ -125,8 +125,8 @@ permalink: /photos/
 
   <div class="gallery-grid">
 
-    <!-- ΦΩΤΟ 1 -->
-    <a class="gallery-item" href="#img1">
+   
+    <a class="gallery-item" href="#photo1">
       <img src="/assets/images/photo1.jpg" alt="Αγώνας κρίκετ στην Κέρκυρα">
       <div class="gallery-caption">
         <strong>Αγώνας κρίκετ στην Κέρκυρα</strong>
@@ -134,8 +134,8 @@ permalink: /photos/
       </div>
     </a>
 
-    <!-- ΦΩΤΟ 2 -->
-    <a class="gallery-item" href="#img2">
+
+    <a class="gallery-item" href="#photo2">
       <img src="/assets/images/photo2.jpg" alt="Προπόνηση Athens Cricket Academy">
       <div class="gallery-caption">
         <strong>Προπόνηση Athens Cricket Academy</strong>
@@ -143,7 +143,7 @@ permalink: /photos/
       </div>
     </a>
 
-    <!-- ΦΩΤΟ 3 -->
+
     <a class="gallery-item" href="#img3">
       <img src="/assets/images/photo3.jpg" alt="Ομαδική φωτογραφία συλλόγου">
       <div class="gallery-caption">
@@ -152,9 +152,73 @@ permalink: /photos/
       </div>
     </a>
 
-    <!-- ΦΩΤΟ 4 (προαιρετικά, μπορείς να προσθέσεις όσες θέλεις) -->
+  
     <a class="gallery-item" href="#img4">
       <img src="/assets/images/photo4.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo5.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo6.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo7.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo8.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo9.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo10.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo11.jpg" alt="Προπονητική δράση για νέους">
+      <div class="gallery-caption">
+        <strong>Δράση για νέους</strong>
+        Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
+      </div>
+    </a>
+
+        <a class="gallery-item" href="#img4">
+      <img src="/assets/images/photo12.jpg" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Δράση για νέους</strong>
         Εκπαιδευτικό πρόγραμμα γνωριμίας με το κρίκετ.
