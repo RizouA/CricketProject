@@ -8,6 +8,7 @@ tags: ["cricket","club"]
 category: "Αθλητικοί σύλλογοι"
 lat:
 lng:
+facebook_url: "https://www.facebook.com/p/Atlas-cricket-club-100063617675125/"
 description: "Σύλλογος κρίκετ με έδρα την Κέρκυρα, μέλος της Ελληνικής Ομοσπονδίας Κρίκετ και συμμετέχων στα πανελλήνια πρωταθλήματα."
 description_en: "Cricket club based in Corfu, Greece, member of the Hellenic Cricket Federation and participant in Greek domestic championships."
 ---
