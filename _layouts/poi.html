@@ -14,6 +14,27 @@ load_leaflet: 1
      alt="Wikidata image"
      style="width:100%; display:none; margin:0 auto; padding-bottom:10px; border-radius:12px; box-shadow:0 0 6px rgba(0,0,0,0.2)">
 
+{% if page.top_image %}
+  <figure style="text-align:center; margin: 1.5rem 0;">
+    <img src="{{ page.top_image }}" alt="{{ page.title }}" style="max-width:90%; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.25);">
+    
+    {% if page.top_image_credit or page.top_image_credit_url %}
+      <figcaption style="font-size:0.9rem; color:#666; margin-top:0.5rem;">
+        Πηγή:
+        {% if page.top_image_credit_url %}
+          <a href="{{ page.top_image_credit_url }}" target="_blank" rel="noopener">
+        {% endif %}
+        
+        {{ page.top_image_credit | default: page.top_image_credit_url }}
+        
+        {% if page.top_image_credit_url %}
+          </a>
+        {% endif %}
+      </figcaption>
+    {% endif %}
+  </figure>
+{% endif %}
+
 {% if page.image %}
   <div style="text-align:center; margin: 1.5rem 0;">
     <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" style="max-width:90%; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.2);">
