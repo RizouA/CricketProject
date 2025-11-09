@@ -161,7 +161,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img5">
       <img src="{{ '/assets/images/photo5.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -169,7 +169,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img6">
       <img src="{{ '/assets/images/photo6.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -177,7 +177,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img7">
       <img src="{{ '/assets/images/photo7.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -185,7 +185,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img8">
       <img src="{{ '/assets/images/photo8.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
        <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -193,7 +193,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img9">
       <img src="{{ '/assets/images/photo9.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -201,7 +201,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img10">
       <img src="{{ '/assets/images/photo10.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -209,7 +209,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img11">
       <img src="{{ '/assets/images/photo11.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -217,7 +217,7 @@ permalink: /photos/
       </div>
     </a>
 
-        <a class="gallery-item" href="#img4">
+        <a class="gallery-item" href="#img12">
       <img src="{{ '/assets/images/photo12.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
       <div class="gallery-caption">
         <strong>Στιγμιότυπα από το ελληνικό κρίκετ</strong>
@@ -270,7 +270,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img5" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo5.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -280,7 +280,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img6" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo6.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -290,7 +290,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img7" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo4.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -300,7 +300,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img8" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo7.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -310,7 +310,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img9" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo8.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -320,7 +320,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img10" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo9.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -330,7 +330,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img11" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo10.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -340,7 +340,7 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
+<div id="img12" class="lightbox">
   <a href="#gallery" class="lightbox-close">&times;</a>
   <div class="lightbox-content">
     <img src="{{ '/assets/images/photo11.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
@@ -350,12 +350,4 @@ permalink: /photos/
   </div>
 </div>
 
-<div id="img4" class="lightbox">
-  <a href="#gallery" class="lightbox-close">&times;</a>
-  <div class="lightbox-content">
-    <img src="{{ '/assets/images/photo12.jpg' | relative_url }}" alt="Προπονητική δράση για νέους">
-    <div class="lightbox-caption">
-      Στιγμιότυπα από το ελληνικό κρίκετ
-    </div>
-  </div>
-</div>
+
