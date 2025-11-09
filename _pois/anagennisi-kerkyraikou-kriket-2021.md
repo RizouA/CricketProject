@@ -6,6 +6,7 @@ title_en: "Anagennisi Corfu Cricket 2021"
 slug: "anagennisi-cc-2021"
 tags: ["cricket","Corfu","club"]
 category: "Αθλητικοί σύλλογοι"
+top_image:
 lat:
 lng:
 official_url: "https://sites.google.com/view/anagennisicricket/%CE%B1%CF%81%CF%87%CE%B9%CE%BA%CE%AE-%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1"
