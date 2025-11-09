@@ -7,7 +7,7 @@ slug: "kerkyraikos-gs-cricket"
 tags: ["cricket","Corfu","club"]
 category: "Αθλητικοί σύλλογοι"
 lat: 39.6243
-lng: 19.9217
+lang: 19.9217
 facebook_url:"https://www.facebook.com/groups/1514610158826284"
 official_url: "[https://www.kerkyraikos.gr](http://www.kerkyraikos.gr/)"
 description: "Κερκυραϊκός Γ.Σ. με δραστηριότητα στο κρίκετ."
