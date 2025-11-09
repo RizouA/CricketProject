@@ -77,7 +77,7 @@ function get_thumbnail(photoname, size){
             thumbname = thumbparts.join('/');
             thumbname += ('/'+size+'px-'+photoname);
             console.log(thumbname);
-            $('#wikidata_img').attr('src', thumbname);
+            $('#wikidata_img').attr('src', thumbname).show();
         }
     })
     .fail(function() {
