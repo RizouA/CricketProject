@@ -8,6 +8,7 @@ tags: ["cricket","Corfu","club"]
 category: "Αθλητικοί σύλλογοι"
 lat:
 lng:
+official_url: "https://sites.google.com/view/anagennisicricket/%CE%B1%CF%81%CF%87%CE%B9%CE%BA%CE%AE-%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1"
 description: "Σύλλογος κρίκετ της Κέρκυρας, ίδρυση 2021."
 description_en: "Corfu cricket club, founded in 2021."
 ---
