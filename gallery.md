@@ -2,6 +2,7 @@
 layout: default
 title: "Φωτογραφικό Υλικό"
 permalink: /photos/
+published: false
 ---
 
 <h1 style="text-align:center;">📸 Φωτογραφικό Υλικό</h1>
