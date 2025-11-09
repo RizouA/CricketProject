@@ -1,13 +1,13 @@
 ---
 layout: poi
-wikidatum:
+wikidatum: Q136745748
 title: "Γυμναστικός Σύλλογος Κρίκετ «Βύρων» (Byron C.C.)"
 title_en: "Byron Cricket Club"
 slug: "byron-cricket-club"
 tags: ["cricket","club"]
 category: "Αθλητικοί σύλλογοι"
-lat:
-lng:
+lat: 39.6243
+lng: 19.9217
 description: "Ιστορικός σύλλογος κρίκετ."
 description_en: "Historic cricket club."
 ---
