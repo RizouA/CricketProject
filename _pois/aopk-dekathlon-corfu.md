@@ -8,7 +8,7 @@ tags: ["cricket","club"]
 category: "Αθλητικοί σύλλογοι"
 lat: 39.6539
 lng: 19.8443
-facebook_url: "https://www.facebook.com/DecathlonCricketClubCorfu"
+facebook_url: "https://www.facebook.com/groups/253273551506761"
 description: "Αθλητικός όμιλος κρίκετ."
 description_en: "Cricket sports club."
 ---
