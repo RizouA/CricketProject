@@ -1,13 +1,13 @@
 ---
 layout: poi
-wikidatum:
+wikidatum: Q136745579
 title: "Cricket Club «Μονομάχοι Κορωπίου» (Monomachoi Koropiou)"
 title_en: "Monomachoi Koropiou Cricket Club"
 slug: "monomachoi-koropiou-cc"
 tags: ["cricket","Koropi","club"]
 category: "Αθλητικοί σύλλογοι"
-lat:
-lng:
+lat: 37.8991
+lng: 23.8716
 description: "Σύλλογος κρίκετ Κορωπίου."
 description_en: "Koropi cricket club."
 ---
