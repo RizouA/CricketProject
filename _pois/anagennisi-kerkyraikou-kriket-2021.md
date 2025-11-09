@@ -16,7 +16,7 @@ facebook_url: "https://www.facebook.com/AnagennisiCricket"
 description: "Σύλλογος κρίκετ της Κέρκυρας, ίδρυση 2021."
 description_en: "Corfu cricket club, founded in 2021."
 ---
-
+![Cricket stampa](https://commons.wikimedia.org/wiki/Special:FilePath/George%20Lorraine%20Stampa%20-%20Cricket...%20-%20circa%201930.jpg)]
 
 **EL:** Σύλλογος κρίκετ της Κέρκυρας. Αναφέρεται από την ΕΛ.Ο.Κ. ως Kerkyra Cricket Renaissance 2021 / Anagennisi C.C.
 
