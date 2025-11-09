@@ -8,6 +8,7 @@ tags: ["cricket","Athens","club"]
 category: "Αθλητικοί σύλλογοι"
 lat:
 lng:
+facebook_url: "https://www.facebook.com/athenscricketacademy"
 description: "Ακαδημία κρίκετ στην Αθήνα."
 description_en: "Cricket academy in Athens."
 ---
