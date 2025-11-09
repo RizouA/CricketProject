@@ -45,6 +45,15 @@ function get_wikidatum(id){
 
           let image = get_json_value(['entities',id,'claims','P18', 0,'mainsnak', 'datavalue', 'value'], data);
           get_thumbnail(image, 1000);
+           // Προσθήκη συνδέσμου για επίσημο ιστότοπο (P856)
+          let officialSite = get_json_value(['entities',id,'claims','P856', 0,'mainsnak','datavalue','value'], data);
+          if (officialSite) {
+              console.log('Official website found:', officialSite);
+              $('#official_link').attr('href', officialSite);
+          } else {
+              // fallback: αν δεν υπάρχει P856, βάλε χειροκίνητα το URL της ομάδας
+              $('#official_link').attr('href', 'https://sites.google.com/view/anagennisicricket/%CE%B1%CF%81%CF%87%CE%B9%CE%BA%CE%AE-%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1');
+          }
 
         })
         .fail(function( jqxhr, textStatus, error ) {
