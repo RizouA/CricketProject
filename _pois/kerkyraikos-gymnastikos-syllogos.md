@@ -6,6 +6,9 @@ title_en: "Kerkyraikos Gymnastikos Syllogos (Cricket)"
 slug: "kerkyraikos-gs-cricket"
 tags: ["cricket","Corfu","club"]
 category: "Αθλητικοί σύλλογοι"
+top_image: "https://commons.wikimedia.org/wiki/Special:FilePath/Cricket_Motif_at_Oval_(12566320855).jpg"
+top_image_credit: "Ian Wright – Cricket Motif at Oval (12566320855), CC BY-SA 2.0"
+top_image_credit_url: "https://commons.wikimedia.org/wiki/File:Cricket_Motif_at_Oval_(12566320855).jpg"
 lat: 39.6243
 lng: 19.9217
 facebook_url: "https://www.facebook.com/groups/1514610158826284"
