@@ -115,3 +115,8 @@ nav ul li {
 nav ul li a {
   white-space: nowrap;
 }
+
+.site-nav .page-link,
+nav ul li a {
+  font-size: 0.95rem;
+}
