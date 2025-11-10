@@ -98,3 +98,20 @@ section, article {
   font-size: 0.9em;
   line-height: 1.5;
 }
+
+nav ul {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 1.2rem;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  white-space: nowrap;
+}
