@@ -6,6 +6,9 @@ title_en: "Athens Cricket Academy"
 slug: "athens-cricket-academy"
 tags: ["cricket","Athens","club"]
 category: "Αθλητικοί σύλλογοι"
+top_image: "https://commons.wikimedia.org/wiki/Special:FilePath/That%27s_not_Cricket.jpg"
+top_image_credit: "“That’s not Cricket”, Wikimedia Commons, CC BY 3.0"
+top_image_credit_url: "https://commons.wikimedia.org/wiki/File:That%27s_not_Cricket.jpg"
 lat:
 lng:
 facebook_url: "https://www.facebook.com/athenscricketacademy"
