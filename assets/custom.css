@@ -11,6 +11,20 @@ h1, h2, h3, h4 {
   font-family: "Georgia", "Times New Roman", serif;
 }
 
+/* Κύρια μπάρα πλοήγησης σε μία γραμμή */
+.site-nav {
+  display: flex;
+  flex-wrap: nowrap;          /* ΜΗΝ σπάς σε δεύτερη γραμμή */
+  justify-content: center;    /* κεντράρισμα */
+  gap: 1.2rem;                /* απόσταση ανάμεσα στα links */
+}
+
+/* Τα links του μενού να μην “σπάνε” οι λέξεις */
+.site-nav .page-link {
+  white-space: nowrap;
+  padding: 0;                 /* αν έχεις πολύ padding, το μειώνουμε */
+}
+
 /* Μπάρα επάνω */
 .site-header {
   background-color: #5a3e2b;
