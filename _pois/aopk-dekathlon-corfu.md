@@ -6,6 +6,9 @@ title_en: "Decathlon Cricket Club"
 slug: "decathlon-cricket-club"
 tags: ["cricket","club"]
 category: "Αθλητικοί σύλλογοι"
+top_image: "https://commons.wikimedia.org/wiki/Special:FilePath/The_Cricket_Players_of_Europe_(BM_1868,0808.4059_1).jpg"
+top_image_credit: "John Doyle – *The Cricket Players of Europe* (circa 1846), The British Museum, Public Domain"
+top_image_credit_url: "https://commons.wikimedia.org/wiki/File:The_Cricket_Players_of_Europe_(BM_1868,0808.4059_1).jpg"
 lat: 39.6539
 lng: 19.8443
 facebook_url: "https://www.facebook.com/groups/253273551506761"
