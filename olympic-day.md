@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Olympic Day Celebration – ΕΛΛ.Ο.Κ"
+title: "Olympic Day Celebration"
 ---
 
 ## 🎥 Olympic Day Celebration
