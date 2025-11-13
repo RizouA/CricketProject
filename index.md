@@ -60,7 +60,7 @@ top_image: https://commons.wikimedia.org/wiki/Special:FilePath/Kookaburra_Gold_C
 έγγραφη άδεια χρήσης από τον αρμόδιο φορέα.
 
 <p style="text-align:center; margin-top:1rem; margin-bottom:2rem;">
-  <a href="{{ "/assets/files/declaration(49).pdf" | relative_url }}"
+  <a href="{{ "/assets/files/declaration.pdf" | relative_url }}"
      target="_blank"
      style="background:#8B5A2B; padding:12px 24px; border-radius:10px; color:white; text-decoration:none; font-weight:bold; font-size:1.05rem;">
     📄 Προβολή Επίσημης Άδειας Φωτογραφιών και άλλου υλικού (PDF)
