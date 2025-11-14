@@ -54,13 +54,12 @@ load_leaflet: 1
 
 
 {{ content }}
-
-
 <p style="text-align:center; margin-top:1em;">
- <p>
-  <a id="wikidata_href" href="#" target="_blank">
-    Άρθρο στη Wikipedia
-  </a>
+ <p> 
+<a href="https://www.wikidata.org/wiki/{{ page.wikidatum }}" target="_blank"
+   style="color:#7a3e00; font-weight:bold;">
+    Wikidata Item
+</a>
  </p>
 
 {% if page.official_url %}
